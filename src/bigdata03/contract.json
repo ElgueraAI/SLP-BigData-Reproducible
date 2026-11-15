@@ -1,0 +1,32 @@
+{
+  "version": "campaign-warehouse-v1.0.0",
+  "governance": "analytical private; no public release authorized",
+  "facts": {
+    "fact_inah_visits_monthly": {
+      "key": ["site_id", "period"],
+      "grain": "individual INAH reception site and calendar month",
+      "unit": "registered entries; explicit zero is a reported count",
+      "lineage": "Big Data 02 Parquet checked against its own binary manifest",
+      "use": "calendar description; no unique tourists, capacity or causal effects"
+    },
+    "fact_datatur_occupancy_monthly": {
+      "key": ["center_id", "period"],
+      "grain": "DataTur selected hotel center and calendar month",
+      "units": ["rooms per day monthly average", "occupancy percent"],
+      "vintage": "contemporary preliminary monthly XLSX; later editions retained in silver_datatur_vintages",
+      "denominator": "available rooms per day monthly average in the same center-month",
+      "aggregation": "no sum of percentages; room-nights require validated coverage and methodology",
+      "status": {"reported": "all cells measured", "source_missing": "missing value retained as NULL"}
+    }
+  },
+  "dimensions": ["dim_period", "dim_entity", "dim_source"],
+  "calendar": "period-only alignment; indicators in separate columns; do not cross-aggregate",
+  "uca_transfer": {
+    "storage": "raw manifests, lineage, quality and canonical hashes",
+    "mining": "EDA within same unit, entity and compatible windows",
+    "ml": "temporal splits, original vintage, validate coverage and targets",
+    "stochastic": "reported zeros, discontinuities and observed vintage comparisons",
+    "operations": "calendar context; capacities, costs and access require independent confirmation",
+    "marketing": "formulate hypotheses and verify operating conditions before campaign"
+  }
+}

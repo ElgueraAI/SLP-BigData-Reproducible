@@ -1,0 +1,851 @@
+{
+  "cut": "2026-09-22",
+  "datatur": {
+    "2024-MES_01_Publico.zip": {
+      "bytes": 337420,
+      "sha256": "1c9d3261d1214584785e6759d3e9adaebc3c35b81437df7411dda4c2f3fb0557"
+    },
+    "2024-MES_02_Publico.zip": {
+      "bytes": 367142,
+      "sha256": "b2f08613704527e00c8afe544035729d9fdabe0167fd286f6de66a75bf4a4b86"
+    },
+    "2024-MES_03_Publico.zip": {
+      "bytes": 395234,
+      "sha256": "05e2bd8bc2d5b3cddd04d6e5808022985a1aed6d83d116c7040df68bfe678564"
+    },
+    "2024-MES_04_Publico.zip": {
+      "bytes": 410817,
+      "sha256": "09b733d58c936c5a4b40376dd45c1e40ff7850f590426226851b3bac96b5c206"
+    },
+    "2024-MES_05_Publico.zip": {
+      "bytes": 399311,
+      "sha256": "445b73b212b9bf8261b6ab7619d923793f5515b9e8f895fefa59b8b3b4307d6b"
+    },
+    "2024-MES_06_Publico.zip": {
+      "bytes": 400052,
+      "sha256": "117816a1cd847e88b98f154c54964dc9748d5c161b2adfa76a7c16ef8dd4732d"
+    },
+    "2024-MES_07_Publico.zip": {
+      "bytes": 395008,
+      "sha256": "1f9e7c12ee0719ba2f91ccae1ad99aaada2eff66ffac0d12a39b1fd5e943e4bd"
+    },
+    "2024-MES_08_Publico.zip": {
+      "bytes": 466629,
+      "sha256": "371f3d6beda7f5b90fcad3f50a2be28904140dc22fe7c9ffff014a1701bf40af"
+    },
+    "2024-MES_09_Publico.zip": {
+      "bytes": 483084,
+      "sha256": "ddd48c0ae08474292a0cd405f1d4a30f667254733b7c69cbc6abf2bcdf57fe17"
+    },
+    "2024-MES_10_Publico.zip": {
+      "bytes": 466799,
+      "sha256": "2e4877c47b8bf380a07fce8ac435338b0c1beeb4249b1e960bc43e7c9f99f53e"
+    },
+    "2024-MES_11_Publico.zip": {
+      "bytes": 467994,
+      "sha256": "4e78d5e1915fbd6bae937cc36b8cd262ba7e50e356d04b04fef2f519a771828c"
+    },
+    "2024-MES_12_Publico.zip": {
+      "bytes": 467175,
+      "sha256": "e10d6f915ed9b53ad0f92a6bd5051ba6071e837d18f6888e35ada34cfd2e0345"
+    },
+    "2025-MES_01_Publico.zip": {
+      "bytes": 407377,
+      "sha256": "895a5bef333f5b2188db1b32f93e9c973213fa41c5ea9b4a7689118b688f11bd"
+    },
+    "2025-MES_02_Publico.zip": {
+      "bytes": 327220,
+      "sha256": "2510b24be22ad590a0bf3e806dbf1b20d738b6e94f9fe64f84aee384d3ad5dc2"
+    },
+    "2025-MES_03_Publico.zip": {
+      "bytes": 400863,
+      "sha256": "02e04db05fe8e250f650027ad0230ace37fee440307f3bfbb0bc185e6e6535e4"
+    },
+    "2025-MES_04_Publico.zip": {
+      "bytes": 400034,
+      "sha256": "addb13beeaf870f87ea6e4ae8accc07812d6ac0f6f19b0d052bb854b86f960a9"
+    },
+    "2025-MES_05_Publico.zip": {
+      "bytes": 400682,
+      "sha256": "1cf58c0a1c2c1a8f55209ac9550155a8bd694c4f51e4f7343c52504e8ac625f7"
+    },
+    "2025-MES_06_Publico.zip": {
+      "bytes": 401013,
+      "sha256": "cd403620f9728dd81c1a89e567bbd0830e7be05a499cf446d9e2650a4be52b02"
+    },
+    "2025-MES_07_Publico.zip": {
+      "bytes": 401122,
+      "sha256": "57e86b3805f71b8e15eaff2fc0c19d75b6e490c76da34e90d903f65a74c4987a"
+    },
+    "2025-MES_08_Publico.zip": {
+      "bytes": 401518,
+      "sha256": "223f2ab695897a9592b25d1978e86888ace3ccc19d5bc9fb4e8377ab705578b2"
+    },
+    "2025-MES_09_Publico.zip": {
+      "bytes": 401600,
+      "sha256": "736796bd5b8d321283e9cb8e5e0e13e274c78f303d3448d837e2efa166747e57"
+    },
+    "2025-MES_10_Publico.zip": {
+      "bytes": 401463,
+      "sha256": "202bd00d21631c2179078085809b46a064c13b47d0e3c69f1bc4cbea5d11882e"
+    },
+    "2025-MES_11_Publico.zip": {
+      "bytes": 403005,
+      "sha256": "bea713872dee5a619bfad7c5efa8d8b484a9293acca40e54b2cf307002c2bf75"
+    },
+    "2025-MES_12_Publico.zip": {
+      "bytes": 450722,
+      "sha256": "bfe04c2592c0fb5cb822857239feeff74c21b0fe6ea4951ba74c9ad54daa393a"
+    },
+    "2026-MES_01_Publico.zip": {
+      "bytes": 562042,
+      "sha256": "3a9a4a4aae77f1dc39b37107a1f4e8daaecafc8269e7ad58cf3ce0e53221736a"
+    },
+    "2026-MES_02_Publico.zip": {
+      "bytes": 567393,
+      "sha256": "27f994887032573049102ecd38db2258e54cad8a1bd23e51cfc6c2b3be02c93e"
+    },
+    "2026-MES_03_Publico.zip": {
+      "bytes": 567869,
+      "sha256": "81a3fa44e2d9d98ab4b4bdea03d079ad3e9f2da44eaf510da5a68a92d082bbae"
+    },
+    "2026-MES_04_Publico.zip": {
+      "bytes": 567864,
+      "sha256": "ec005b51bcad166f3bd67d4b9057341fe5b2864af29daabbd30234f1a231f5ad"
+    },
+    "2026-MES_05_Publico.zip": {
+      "bytes": 568047,
+      "sha256": "0d1afda3eace722c2ca6cef97b7f758a8c087e0e9d990f779df3d095e34c24be"
+    },
+    "2026-MES_06_Publico.zip": {
+      "bytes": 568494,
+      "sha256": "dd14f8f4899d5d96439617d98e5b7ba000dec04900e0afa5fbfba2f24d8845ff"
+    },
+    "2026-MES_07_Publico.zip": {
+      "bytes": 568389,
+      "sha256": "f7dd18d517281cedd2a7ee7e53cb8bbeb74273cb38187516a711c49cf3dfa52a"
+    },
+    "datatur_slp_city_monthly.parquet": {
+      "bytes": 4918,
+      "sha256": "c37b4ce7c5f19b5f0c9437df0027a65a2ed2d0ab2e1b775fb38782e6f1fb0631"
+    },
+    "hotel_center_monthly.parquet": {
+      "bytes": 4918,
+      "sha256": "c37b4ce7c5f19b5f0c9437df0027a65a2ed2d0ab2e1b775fb38782e6f1fb0631"
+    }
+  },
+  "datatur_catalogue": [
+    [
+      "DATATUR_MONITOR_2024_01",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_01_Publico.zip",
+      null,
+      null,
+      337420,
+      "1c9d3261d1214584785e6759d3e9adaebc3c35b81437df7411dda4c2f3fb0557",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_01_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:12.383347+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_02",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_02_Publico.zip",
+      null,
+      null,
+      367142,
+      "b2f08613704527e00c8afe544035729d9fdabe0167fd286f6de66a75bf4a4b86",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_02_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:12.590230+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_03",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_03_Publico.zip",
+      null,
+      null,
+      395234,
+      "05e2bd8bc2d5b3cddd04d6e5808022985a1aed6d83d116c7040df68bfe678564",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_03_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:12.793719+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_04",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_04_Publico.zip",
+      null,
+      null,
+      410817,
+      "09b733d58c936c5a4b40376dd45c1e40ff7850f590426226851b3bac96b5c206",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_04_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:13.009577+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_05",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_05_Publico.zip",
+      null,
+      null,
+      399311,
+      "445b73b212b9bf8261b6ab7619d923793f5515b9e8f895fefa59b8b3b4307d6b",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_05_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:13.226539+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_06",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_06_Publico.zip",
+      null,
+      null,
+      400052,
+      "117816a1cd847e88b98f154c54964dc9748d5c161b2adfa76a7c16ef8dd4732d",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_06_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:13.467613+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_07",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_07_Publico.zip",
+      null,
+      null,
+      395008,
+      "1f9e7c12ee0719ba2f91ccae1ad99aaada2eff66ffac0d12a39b1fd5e943e4bd",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_07_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:13.702063+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_08",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_08_Publico.zip",
+      null,
+      null,
+      466629,
+      "371f3d6beda7f5b90fcad3f50a2be28904140dc22fe7c9ffff014a1701bf40af",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_08_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:13.934477+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_09",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_09_Publico.zip",
+      null,
+      null,
+      483084,
+      "ddd48c0ae08474292a0cd405f1d4a30f667254733b7c69cbc6abf2bcdf57fe17",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_09_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:14.153640+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_10",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_10_Publico.zip",
+      null,
+      null,
+      466799,
+      "2e4877c47b8bf380a07fce8ac435338b0c1beeb4249b1e960bc43e7c9f99f53e",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_10_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:14.398511+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_11",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_11_Publico.zip",
+      null,
+      null,
+      467994,
+      "4e78d5e1915fbd6bae937cc36b8cd262ba7e50e356d04b04fef2f519a771828c",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_11_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:14.655096+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2024_12",
+      null,
+      null,
+      "data/raw/datatur/2024-MES_12_Publico.zip",
+      null,
+      null,
+      467175,
+      "e10d6f915ed9b53ad0f92a6bd5051ba6071e837d18f6888e35ada34cfd2e0345",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2024-MES_12_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:14.890278+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_01",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_01_Publico.zip",
+      null,
+      null,
+      407377,
+      "895a5bef333f5b2188db1b32f93e9c973213fa41c5ea9b4a7689118b688f11bd",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_01_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:15.136781+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_02",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_02_Publico.zip",
+      null,
+      null,
+      327220,
+      "2510b24be22ad590a0bf3e806dbf1b20d738b6e94f9fe64f84aee384d3ad5dc2",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_02_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:15.353653+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_03",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_03_Publico.zip",
+      null,
+      null,
+      400863,
+      "02e04db05fe8e250f650027ad0230ace37fee440307f3bfbb0bc185e6e6535e4",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_03_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:15.581793+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_04",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_04_Publico.zip",
+      null,
+      null,
+      400034,
+      "addb13beeaf870f87ea6e4ae8accc07812d6ac0f6f19b0d052bb854b86f960a9",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_04_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:15.822695+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_05",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_05_Publico.zip",
+      null,
+      null,
+      400682,
+      "1cf58c0a1c2c1a8f55209ac9550155a8bd694c4f51e4f7343c52504e8ac625f7",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_05_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:16.071083+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_06",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_06_Publico.zip",
+      null,
+      null,
+      401013,
+      "cd403620f9728dd81c1a89e567bbd0830e7be05a499cf446d9e2650a4be52b02",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_06_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:16.289242+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_07",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_07_Publico.zip",
+      null,
+      null,
+      401122,
+      "57e86b3805f71b8e15eaff2fc0c19d75b6e490c76da34e90d903f65a74c4987a",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_07_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:16.508675+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_08",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_08_Publico.zip",
+      null,
+      null,
+      401518,
+      "223f2ab695897a9592b25d1978e86888ace3ccc19d5bc9fb4e8377ab705578b2",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_08_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:16.733125+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_09",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_09_Publico.zip",
+      null,
+      null,
+      401600,
+      "736796bd5b8d321283e9cb8e5e0e13e274c78f303d3448d837e2efa166747e57",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_09_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:16.961143+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_10",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_10_Publico.zip",
+      null,
+      null,
+      401463,
+      "202bd00d21631c2179078085809b46a064c13b47d0e3c69f1bc4cbea5d11882e",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_10_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:17.191813+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_11",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_11_Publico.zip",
+      null,
+      null,
+      403005,
+      "bea713872dee5a619bfad7c5efa8d8b484a9293acca40e54b2cf307002c2bf75",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_11_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:17.428587+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2025_12",
+      null,
+      null,
+      "data/raw/datatur/2025-MES_12_Publico.zip",
+      null,
+      null,
+      450722,
+      "bfe04c2592c0fb5cb822857239feeff74c21b0fe6ea4951ba74c9ad54daa393a",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2025-MES_12_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:08:17.900027+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_01",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_01_Publico.zip",
+      null,
+      null,
+      562042,
+      "3a9a4a4aae77f1dc39b37107a1f4e8daaecafc8269e7ad58cf3ce0e53221736a",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_01_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:17.679310+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_02",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_02_Publico.zip",
+      null,
+      null,
+      567393,
+      "27f994887032573049102ecd38db2258e54cad8a1bd23e51cfc6c2b3be02c93e",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_02_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:17.909371+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_03",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_03_Publico.zip",
+      null,
+      null,
+      567869,
+      "81a3fa44e2d9d98ab4b4bdea03d079ad3e9f2da44eaf510da5a68a92d082bbae",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_03_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:18.163086+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_04",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_04_Publico.zip",
+      null,
+      null,
+      567864,
+      "ec005b51bcad166f3bd67d4b9057341fe5b2864af29daabbd30234f1a231f5ad",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_04_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:18.419395+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_05",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_05_Publico.zip",
+      null,
+      null,
+      568047,
+      "0d1afda3eace722c2ca6cef97b7f758a8c087e0e9d990f779df3d095e34c24be",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_05_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:18.701597+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_06",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_06_Publico.zip",
+      null,
+      null,
+      568494,
+      "dd14f8f4899d5d96439617d98e5b7ba000dec04900e0afa5fbfba2f24d8845ff",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_06_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:09:18.964010+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ],
+    [
+      "DATATUR_MONITOR_2026_07",
+      null,
+      null,
+      "data/raw/datatur/2026-MES_07_Publico.zip",
+      null,
+      null,
+      568389,
+      "f7dd18d517281cedd2a7ee7e53cb8bbeb74273cb38187516a711c49cf3dfa52a",
+      "https://datatur.sectur.gob.mx/SitePages/hoteleria.aspx",
+      "https://datatur.sectur.gob.mx/Documentoscompartidos/monitoreo/2026-MES_07_Publico.zip",
+      null,
+      null,
+      null,
+      "2026-09-22T08:08:18.124245+00:00",
+      null,
+      null,
+      "No explicit license statement on the dataset page; public government access. Recheck reuse terms."
+    ]
+  ],
+  "expected": {
+    "bigdata02": {
+      "binary_sha256": {
+        "bronze.parquet": "652e34ab9fc8633bac3eed17e0c2bdd672a093edddde1c8593aedc64a41078e2",
+        "gold.parquet": "b680ef0948703ad1090cd78b6bc68d82c63746ba90a74fc79802fbce755702eb",
+        "quarantine.parquet": "bbd835750ffdf84b851cb7055690d9cb56e0d594f370787c53ddc965341ea978",
+        "silver.parquet": "bcaeb8f3386e5fc4268896e3946d10d1762b8c009f76911ce5af0adeae501c73"
+      },
+      "logical_sha256": {
+        "Q1.csv": "007ad36255652d046c5d75274f016466a1623914f878f844844a9f2bf2e31ab8",
+        "Q2.csv": "99e5d56b3496af76407712d7f24782eef3b3427386a6973ec08986cc41a22f55",
+        "Q3.csv": "639f08be064c8906bceec6a87f957914de28fe8af1cf8aec3f37b5d18a885ed4",
+        "Q4.csv": "92872727ff69bfd8feeaa061b338677579c7acfbf8cde10a9c2d7f3e83122cde",
+        "Q5.csv": "8bd4b6886665cba4feb1b1e1da3b99e226e773dfec0ca5792087ff37cfa25356",
+        "Q6.csv": "9801bc7ff78ae7a9c0cee8e0fa80d0a70d7652478237f385b5c77c40c850a733",
+        "Q7.csv": "380209ed49d38ffde8c7bf19767150a8a5b91b05ded1d042b8bc15fcafb64e78",
+        "gold-canonical.csv": "ed74c60b513bcb80697154fd57fa07065b7a0b63c5d7d9a6c424eac983136236",
+        "quality.json": "70135f851a7b44582277066c312bd56053f07302f63b64b64288a018851645f8"
+      }
+    },
+    "bigdata03": {
+      "parquet": {
+        "bronze_datatur": "9e108c233a6107f8e08c46979942bd8c2c7985975defafef2f6e3ed0d1bf28aa",
+        "campaign_calendar": "1908c50bf4c19eaeb5d3b664e7de40b55c8ea059d65f267cfa3b9c8296b265cd",
+        "datatur_revisions": "19f6b50e3385a858a53766c7cc69c5e68cd059f2df9e10779e3caeb423e9c792",
+        "dim_entity": "bd5ddd7cf66af0aba3dcd1d28735c55361376b1eb0f62b78917e74cc5ae83982",
+        "dim_period": "47d199b0bd02c49da79e29e36a3d4abb8d3e0cd235059245391e781bfbe69edc",
+        "dim_source": "ce79ae80e6de1fd28654dd88d99773d3fc067083aa5039eb4837b51605478856",
+        "fact_datatur_occupancy_monthly": "6d16f74f989bc53458e8310d65100c49cf0b73c1a8e238bb6fd075c794bf9883",
+        "fact_inah_visits_monthly": "2899513e2bdbc035a349b48caa2317b77b40a60821c7816a24e79ed0c4d0758b",
+        "quarantine_datatur": "61368927172d3dec7aa963796c0bee0a0eb649de622a8fb14f3def5f7c58f2d0",
+        "raw_datatur_manifest": "da12987f128aba97454897c0b55134b818150041a9222552cc425deeaf7ea1f7",
+        "silver_datatur_vintages": "f1ff1c818d88c3dfde9b0c810ffc49f559e5c67211446712be0df76243f66fd9"
+      },
+      "products": {
+        "bronze_datatur": "0cbdaa46c10f1805c21ace1c24eca558392225c5b34242893fd1384325e2b2fe",
+        "campaign_calendar": "fa80f85a3a2989b1bdede1dd395bba3661f14fe4e7111f26352c245657d33f6c",
+        "datatur_revisions": "b717be938fa63534c3e2c3c436b3a36dd5a768d4fa9b9fd7812f39b5096d460a",
+        "dim_entity": "3fb0b27ad8fbfd57058ee84e7aa8ae7c748e76bc77392d72f5c56359555528dd",
+        "dim_period": "c84ad60aa45b1d069699f3c419381d583f3954c814a63f20dc72cf3b2f1517a3",
+        "dim_source": "2f486aacc33167bed234cb7e7ebb523f0068cfa4a5fb028435cc556b416e661f",
+        "fact_datatur_occupancy_monthly": "0c5b586eba3f45c9d18d0e9c8de6bd5cc63d3e4022094832c322d56519d3888c",
+        "fact_inah_visits_monthly": "baf205b89d22cf03a3dce4f75e5918e0924ad769dcc3cade8264721e1d2d0344",
+        "quarantine_datatur": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "raw_datatur_manifest": "f1843fe7dbd1dd3228cb12f5af5c6ac64db92c244686ebf25ceabf1f29ac2d6f",
+        "silver_datatur_vintages": "9e6dba1ec8dc31718dd6a55e19385c51442ade768db86f9074d01f6c696e3973"
+      },
+      "quality_sha256": "55940da4d51309fa3d14cfc3ded93aa31b71f00ea5e9aeb7f81e3fdf4124906b",
+      "queries": {
+        "Q1": {
+          "rows": 4,
+          "sha256": "9a4a2aa6c16be5d5f96554bdbbcfc9ee6e47e6d1446f2031763e5bc745a2c700"
+        },
+        "Q2": {
+          "rows": 6,
+          "sha256": "a0c5be8a5b6371191796d37b984d7136b6ba20c7122af281690383afc4a9a70d"
+        },
+        "Q3": {
+          "rows": 31,
+          "sha256": "e61dddf54688990b2dc89df4bbb8dd6e0b9ad063ea40e7a86fc96e0dc9003d16"
+        },
+        "Q4": {
+          "rows": 109,
+          "sha256": "ff4e9531bc270577e0dbc8c09ccb0363f1bf0f449f8f09a4c68fe9dc4e6052c3"
+        },
+        "Q5": {
+          "rows": 36,
+          "sha256": "5b387d084a8b1f139abbe082b83fbb1038ab2ea5a6a946a68469941fd5f44897"
+        },
+        "Q6": {
+          "rows": 32,
+          "sha256": "49b903a63feae2854aa7538a59bb0e2afa0595808c5ff681d9f1567a3f43aa8c"
+        },
+        "Q7": {
+          "rows": 5,
+          "sha256": "63c8cccd727516df451f5af372d259b6d2370c8ca7cb4f563a95a03196192ce5"
+        },
+        "Q8": {
+          "rows": 5,
+          "sha256": "1880e5afee551147f584099163c1a5c5fae3d151cd5f9767183b4a0ffd1051e1"
+        }
+      }
+    }
+  },
+  "inah": {
+    "INAH_museos.csv": {
+      "bytes": 32540,
+      "sha256": "0e97b4b71d5276764813aebb846066c11cf98dbfd0fc6f13794936044134cfe1"
+    },
+    "INAH_visitantes_museos_general.csv": {
+      "bytes": 463927,
+      "sha256": "14f2576c76a57106ccf5fa1c07680c3427213c0939a23509270bcb6871eb4875"
+    },
+    "INAH_visitantes_zonas_general.csv": {
+      "bytes": 737783,
+      "sha256": "f7f960b8620af8de483990f9540473aa7ed112807f7989ee0f9e5722ac2a37d8"
+    },
+    "INAH_zonas_arqueologicas.csv": {
+      "bytes": 46149,
+      "sha256": "ca080041e4b8dbd712cb545a005cd7663d1b3b08ac922c75a0965c05d2304d67"
+    },
+    "cultural_visits_monthly.parquet": {
+      "bytes": 8023,
+      "sha256": "5f50a2fb16a06386878607d060513e912b847f00432013ecab82c0a9a01d1b4b"
+    },
+    "diccionario_museos.csv": {
+      "bytes": 768,
+      "sha256": "cd36e1ac9063443a426582e7b5fd71e0d52545686029846755249d5b82314e59"
+    },
+    "diccionario_visitantes_museos_general.csv": {
+      "bytes": 2585,
+      "sha256": "07c7a6eecc2091755a166c4df4fabc283097565da513d8d31b2ae00560908d90"
+    },
+    "diccionario_visitantes_zonas_general.csv": {
+      "bytes": 2602,
+      "sha256": "bbf544743a964de0bbb16ee8e30c3ea5b2a8274c263e9cf572b76578c26460fc"
+    },
+    "diccionario_zonas_arqueologicas.csv": {
+      "bytes": 647,
+      "sha256": "cdcf553614aced74e375a9fa043f1ccb3929b8db8752b5639296aec9e31a13f7"
+    }
+  },
+  "notice": "Solo huellas, identificadores de archivo y metadatos oficiales; los binarios autorizados se proporcionan por separado."
+}

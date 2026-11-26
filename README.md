@@ -4,6 +4,20 @@ Paquete académico para la UCA de Herramientas para el Almacenamiento de Grandes
 
 Las fuentes estudiadas fueron las entradas a recintos del INAH y la actividad del centro hotelero monitoreado por DataTur. Python organiza Raw, Bronze, Silver y Gold, Parquet guarda los productos por columnas y DuckDB ejecuta las consultas de calendario y calidad. [Fuentes y metodología](docs/metodologia.md) · [Arquitectura](docs/arquitectura.md) · [Diagrama editable](figures/flujo.md).
 
+## Big Data 04 — Arquitectura Kappa y CRM turístico
+
+**Big Data 01–03** documenta el almacén histórico Medallion para preparar, almacenar e integrar las fuentes turísticas oficiales. **Big Data 04** incorpora una arquitectura Kappa que procesa continuamente los eventos sintéticos de un CRM turístico y registra decisiones de elegibilidad para una campaña.
+
+| Objetivo | Acceso directo |
+|---|---|
+| **Ver resultados** | [Colab ejecutado](https://colab.research.google.com/drive/1fS4TH9e0PiOsWHfEhIpZRNRcSa1rA10J?usp=sharing) · [Notebook en GitHub](bigdata04-kappa-crm/UCA01_BigData04_Kappa_CRM_SLP.ipynb) · [Descargar HTML y abrirlo localmente](https://raw.githubusercontent.com/ElgueraAI/SLP-BigData-Reproducible/main/bigdata04-kappa-crm/UCA01_BigData04_Kappa_CRM_SLP.html) |
+| **Consultar instrucciones** | [Guía PDF para el profesor](bigdata04-kappa-crm/LEEME_PROFESOR.pdf) · [Documentación técnica y límites](bigdata04-kappa-crm/README.md) · [Evidencia experimental](bigdata04-kappa-crm/evidencias/BIGDATA04_RESULTADOS_VERIFICADOS.md) |
+| **Reproducir el sistema completo** | [Descargar ZIP](https://raw.githubusercontent.com/ElgueraAI/SLP-BigData-Reproducible/main/bigdata04-kappa-crm/UCA01_BigData04_Kappa_CRM_SLP_Reproducible.zip) · [Huellas SHA-256](bigdata04-kappa-crm/SHA256SUMS.txt) |
+
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fS4TH9e0PiOsWHfEhIpZRNRcSa1rA10J?usp=sharing)
+
+Colab reproduce el análisis y las ocho gráficas. El flujo Kafka–MongoDB se ejecuta en Docker. La extracción aislada se verificó con el perfil offline de WSL2. La instalación del perfil Docker portátil desde cero queda pendiente.
+
 ## Dos formas de ejecución
 
 | Modo | Entrada | Finalidad |

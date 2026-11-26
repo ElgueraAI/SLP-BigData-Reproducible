@@ -1,0 +1,7 @@
+*.pdf binary
+*.zip binary
+*.ipynb -text
+*.html -text
+*.json -text
+*.txt -text
+*.md text eol=lf
